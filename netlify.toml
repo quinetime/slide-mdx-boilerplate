@@ -1,0 +1,5 @@
+# Lets netlify know where to find the built site when deploying
+
+[build]
+
+  publish = "public"

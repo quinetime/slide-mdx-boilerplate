@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "description": "Deck created with mdx-deck",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "subbuild": "mdx-deck build deck.mdx --basepath=\"/intro/arguments\"",
+    "pdf": "mdx-deck pdf deck.mdx",
+    "image": "mdx-deck screenshot deck.mdx",
+    "help": "mdx-deck"
+  },
+  "keywords": [],
+  "author": "Richard Dub",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.8.15"
+  },
+  "name": "mdx-deck-template",
+  "devDependencies": {
+    "mdx-deck": "^3.0.10",
+    "styled-components": "^4.3.2"
+  }
+}
