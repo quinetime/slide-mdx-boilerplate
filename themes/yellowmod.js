@@ -1,5 +1,4 @@
-
-
+import Background from './BackgroundProvider.js';
 const yellow = '#ffd233'
 
 export default {
@@ -31,6 +30,7 @@ export default {
       bg: 'text',
     },
   },
+  Background
 }
 
 

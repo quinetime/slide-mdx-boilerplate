@@ -1,6 +1,6 @@
 # Personal boilerplate for building MDX decks
 
-Mostly for my own use, but if you'd like to use it, feel free.
+This is intended for my own use when building new slideshows, but if you'd like to grab some code, feel free.
 
 ---
 

@@ -9,10 +9,10 @@ const BackgroundTriangles = styled.div`
 	height: 100vh;
 	width: 100vw;
 	background-repeat: 'no-repeat',
-    background-position: 'right center',
-    background-size: 'cover',
-    background-attachment: 'fixed',
-    background-image: 'url("./triangle-background.svg")',
+  background-position: 'right center',
+  background-size: 'cover',
+  background-attachment: 'fixed',
+  background-image: 'url("./triangle-background.svg")',
 `;
 
 export default ({ children }) => (
