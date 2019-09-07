@@ -255,6 +255,116 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 91,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1859,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "netlify.toml",
+			"settings":
+			{
+				"buffer_size": 95,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "deckargs.mdx",
+			"settings":
+			{
+				"buffer_size": 12906,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "deck.mdx",
+			"settings":
+			{
+				"buffer_size": 765,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/ArgBox.js",
+			"settings":
+			{
+				"buffer_size": 220,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/FancyList.js",
+			"settings":
+			{
+				"buffer_size": 1183,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/yellowmod.js",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/BackgroundProvider.js",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "const yellow = '#fd0'\n\nexport default {\n  googleFont:\n    'https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto+Mono',\n  fonts: {\n    body: '\"Roboto Condensed\", system-ui, sans-serif',\n    monospace: '\"Roboto Mono\", monospace',\n  },\n  colors: {\n    text: '#000',\n    background: yellow,\n    primary: '#333',\n  },\n  text: {\n    heading: {\n      textTransform: 'uppercase',\n    },\n  },\n  styles: {\n    pre: {\n      textAlign: 'left',\n      color: 'background',\n      bg: 'text',\n    },\n    code: {\n      color: 'background',\n      bg: 'text',\n    },\n  },\n}",
+			"file": "themes/yellow.js",
+			"file_size": 603,
+			"file_write_time": 132121915258377970,
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/QuoteBox.js",
+			"settings":
+			{
+				"buffer_size": 1731,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/DefBox.js",
+			"settings":
+			{
+				"buffer_size": 926,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -351,8 +461,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/slide-mdx-boilerplate",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/slide-mdx-boilerplate/themes"
+	],
 	"file_history":
 	[
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/slidehouse/tempslidedepot/index.html",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/slide-mdx-boilerplate/package.json",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/slide-mdx-boilerplate/themes/BackGroundProvider.js",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/slide-mdx-boilerplate/themes/yellowmod.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/slidehouse/tempslidedepot/intro/arguments/index.html",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/slidehouse/tempslidedepot/intro/arguments/webpack.stats.json",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/slidehouse/tempslidedepot/intro/arguments/chunk-map.json",
 		"/C/Users/Richard/Dropbox/My Work/My Presentations/2019-01 GSU Depersonalization/delusion-emotion-depersonalization/deck.mdx",
 		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/syllabus/syllabus.md",
 		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/02-Arguments/package.json",
@@ -473,18 +595,11 @@
 		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discoveries.js",
 		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ResearchMenu/ResearchMenu.css",
 		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discoveries.css",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/hnt-verify.js",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/Console.css",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ConsoleButton.css",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/TutorialBox/TutorialBox.js",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/TutorialBox/TutorialBox.css",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/TimerAndClicker/Clicker/Clicker.js",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscText/DiscText.css",
-		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/Inventory/InventoryItem/InventoryItem.js"
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/hnt-verify.js"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 54.0
 	},
 	"find_in_files":
 	{
@@ -498,6 +613,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"conc",
+			"governmm"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -515,8 +632,357 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Seti_UI/icons/Langs/Git.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1537,
+								1537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 24.0,
+						"translation.y": 340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "netlify.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "deckargs.mdx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9290,
+								9290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MDX Syntax Highlighting/mdx.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "deck.mdx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MDX Syntax Highlighting/mdx.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "components/ArgBox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "components/FancyList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "themes/yellowmod.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								669
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "themes/BackgroundProvider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "themes/yellow.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "components/QuoteBox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "components/DefBox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -601,7 +1067,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 239.0,
+	"side_bar_width": 277.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

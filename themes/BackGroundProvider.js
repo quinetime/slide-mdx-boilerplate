@@ -1,6 +1,7 @@
 import React from 'react'
 import { useDeck } from 'mdx-deck'
 import styled from 'styled-components'
+import triangles from '../static/triangle-background.svg'
 
 const BackgroundTriangles = styled.div`
 	position: absolute;
@@ -12,7 +13,7 @@ const BackgroundTriangles = styled.div`
   background-position: 'right center',
   background-size: 'cover',
   background-attachment: 'fixed',
-  background-image: 'url("./triangle-background.svg")',
+  background-image: 'url("../static/triangle-background.svg")',
 `;
 
 export default ({ children }) => (

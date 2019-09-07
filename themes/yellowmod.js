@@ -1,4 +1,6 @@
 import Background from './BackgroundProvider.js';
+import triangles from '../static/triangle-background.svg'
+
 const yellow = '#ffd233'
 
 export default {
@@ -17,6 +19,7 @@ export default {
     heading: {
       textTransform: 'uppercase',
       margin: "0.3em",
+      textAlign: "center",
     },
   },
   styles: {
@@ -29,8 +32,12 @@ export default {
       color: 'background',
       bg: 'text',
     },
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: 'right center',
+    backgroundSize: 'cover',
+    backgroundAttachment: 'fixed',
+    backgroundImage: 'url("../static/triangle-background.svg")',
   },
-  Background
 }
 
 
