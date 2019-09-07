@@ -54,4 +54,4 @@ module.exports = {
 
 * mdx-deck 3.0 broke my ability to publish slide decks to a subdirectory and have React Router update the page numbers correctly.  I'm working on it: the above "Deploying to a Subdirectory" section is where I'm at right now, but it's still not working.  (In 2.5.1, I could just use the basepath parameter when building and then restructure my directories.  I didn't need to fool around with gatsby-config.js.)
 
-  	Apparently mdx-deck 3.0 makes it easy to have a single Gatsby site with a collection of decks all contained in a subdirectory.  I would prefer to have the freedom to simply deploy slide decks to a subdirectory without building a new site (and learn Gatsby), but it seems this is the way to go.
+  	Apparently mdx-deck 3.0 [makes it easy](https://github.com/jxnblk/mdx-deck/blob/master/docs/gatsby.md) to have a single Gatsby site with a collection of decks all contained in a subdirectory.  I would prefer to have the freedom to simply deploy slide decks to a subdirectory without building a new site (and learn Gatsby), but it seems this is the way to go.
