@@ -20,19 +20,21 @@ Clone this directory.
 
 ## Deploying to a Subdirectory of a Netlify site
 
-### Doesn't Currently Function!. :pensive: I'm Working On It. 
+### Doesn't Currently Function! :pensive: I'm Working On It. 
 
 For example, to deploy to `./slides/arguments`:
 
 * Add the following to *gatsby-config.js* (this will tell Gatsby that you don't want your page to live at the site root. See [here](https://www.gatsbyjs.org/docs/path-prefix/).):
 
-``
-module.exports = {
-  pathPrefix: `/slides/arguments`,
-}
-``
+	``
+	module.exports = {
+	  pathPrefix: `/slides/arguments`,
+	}
+	``
+	
+	(Note: I can't tell whether this is the right place to put *gatsby-config.js*.  It seems to be doing something though.)
 
-* [Build with the undocumented basepath parameter.](https://github.com/jxnblk/mdx-deck/issues/291). e.g. `"mdx-deck build deck.mdx --basepath=\"/slides/arguments\"",`.  You can also run the script called `subbuild` in package.json, but you'll have to go in and manually change the path to whatever you need.  This makes React Router work appropriately and will change the address in the address bar correctly when flipping through slides.
+* [Build with the undocumented basepath parameter](https://github.com/jxnblk/mdx-deck/issues/291). e.g. `"mdx-deck build deck.mdx --basepath=\"/slides/arguments\"",`.  You can also run the script called `subbuild` in package.json, but you'll have to go in and manually change the path to whatever you need.  This makes React Router work appropriately and will change the address in the address bar correctly when flipping through slides.
 
 * Restructure your folders to create the directory structure you want, treating *public* as the site's root.  Enter the newly-created *public* folder and manually create a *slides* folder containing an *arguments* folder.  Manually move all other contents of *public* into *arguments*.
 
