@@ -36,7 +36,7 @@ export default {
     backgroundPosition: 'right center',
     backgroundSize: 'cover',
     backgroundAttachment: 'fixed',
-    backgroundImage: 'url("../static/triangle-background.svg")',
+    backgroundImage: 'url("./static/triangle-background.svg")',
   },
 }
 

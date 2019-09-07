@@ -18,16 +18,40 @@ Clone this directory.
 
 ---
 
+## Deploying to a Subdirectory of a Netlify site
+
+### Doesn't Currently Function!. :pensive: I'm Working On It. 
+
+For example, to deploy to `./slides/arguments`:
+
+* Add the following to *gatsby-config.js* (this will tell Gatsby that you don't want your page to live at the site root. See [here](https://www.gatsbyjs.org/docs/path-prefix/).):
+
+``
+module.exports = {
+  pathPrefix: `/slides/arguments`,
+}
+``
+
+* [Build with the undocumented basepath parameter.](https://github.com/jxnblk/mdx-deck/issues/291). e.g. `"mdx-deck build deck.mdx --basepath=\"/slides/arguments\"",`.  You can also run the script called `subbuild` in package.json, but you'll have to go in and manually change the path to whatever you need.  This makes React Router work appropriately and will change the address in the address bar correctly when flipping through slides.
+
+* Restructure your folders to create the directory structure you want, treating *public* as the site's root.  Enter the newly-created *public* folder and manually create a *slides* folder containing an *arguments* folder.  Manually move all other contents of *public* into *arguments*.
+
+* Return to this folder and `netlify deploy`.
+
+* Then, on your actual site, use Netlify's proxying feature to proxy to your slides. (See fool's comments at the end of [this thread](https://github.com/netlify/cli/issues/16).)
+
+* Be aware that [this open issue](https://github.com/jxnblk/mdx-deck/issues/425) suggests that doing this might break the theming.
+
+---
+
 ## To Do
 
-* Updating to mdx-deck 3.0 changed the way some components look.  Fix them.  It also switched from using styled-components to emotion, so I should rewrite  them in emotion.
+* Updating to mdx-deck 3.0 changed the way some components look.  Fix them.  It also switched from using styled-components to emotion, so I should rewrite them in emotion.
 
-* I cannot get the Background Provider to use the background image. Not sure what's wrong.  This might be related to a bug where Gatsby has a problem finding static assets ([link](https://github.com/jxnblk/mdx-deck/issues/458)), but I can't even get the Provider to color the background a single solid color.  (So I think there are two problems here: getting Providers to work, and using static assets.  I only switched to trying out a Provider when I couldn't get the backgroundImage to work in the theme.)
+* I cannot get the Background Provider to use the background image. Not sure what's wrong.  This might be related to a bug where Gatsby has a problem finding static assets ([link](https://github.com/jxnblk/mdx-deck/issues/458), workaround [here](https://github.com/HoverBaum/bug-mdx-deck-401/blob/master/deck.mdx)), but I can't even get the Provider to color the background a single solid color.  (So I think there are two problems here: getting Providers to work, and using static assets in themes.  I only switched to trying out a Provider when I couldn't get the backgroundImage to work in the theme.)
 
-* mdx-deck 3.0 broke my ability to publish slide decks to a subdirectory and have React Router update the page numbers correctly.
+* Something is wrong with hotloading the dev server. It doesn't always update when I make changes to deck.mdx, and I have to restart it. It's truly annoying.
 
-  	The undocumented basepath parameter is important for React Router: ([link](https://github.com/jxnblk/mdx-deck/issues/291)).  (I have currently put the command using basepath in the subbuild script in package.json.  It is `"subbuild": "mdx-deck build deck.mdx --basepath=\"/slides/arguments\"",`).  I used this in mdx-deck 2.51.
+* mdx-deck 3.0 broke my ability to publish slide decks to a subdirectory and have React Router update the page numbers correctly.  I'm working on it: the above "Deploying to a Subdirectory" section is where I'm at right now, but it's still not working.  (In 2.5.1, I could just use the basepath parameter when building and then restructure my directories.  I didn't need to fool around with gatsby-config.js.)
 
-  	However, that just has to do with React Router updating the page numbers nicely... I now can't deploy slide decks to subdirectories at all.  In mdx-deck 2.51, I just manually deployed the index.html file to a subdirectory, but this no longer works.  I think this has to do with the fact that mdx-deck 3.0 switched to Gatsby, and Gatsby assumes that projects are deployed to the site root unless told.  See [here](https://www.gatsbyjs.org/docs/path-prefix/).  [This open issue](https://github.com/jxnblk/mdx-deck/issues/425) suggests that there's a Gatsby config that'll let me alter the pathing, but I might break the theme in so doing.
-
-* Once I figure these issues out, I'd like to write a script that would deploy slide decks I make directly into a subdirectory of a single-site hub and then update a menu at the site root page accordingly.
+  	Apparently mdx-deck 3.0 makes it easy to have a single Gatsby site with a collection of decks all contained in a subdirectory.  I would prefer to have the freedom to simply deploy slide decks to a subdirectory without building a new site (and learn Gatsby), but it seems this is the way to go.
