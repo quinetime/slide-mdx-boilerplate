@@ -1,3 +1,3 @@
-module.exports = {
-  pathPrefix: `/slides/arguments`,
-}
+// module.exports = {
+//   pathPrefix: `/slides/arguments`,
+// }

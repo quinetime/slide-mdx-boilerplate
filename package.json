@@ -5,7 +5,7 @@
   "scripts": {
     "start": "mdx-deck deck.mdx",
     "build": "mdx-deck build deck.mdx",
-    "subbuild": "mdx-deck build deck.mdx --basepath=\"/slides/arguments\"",
+    "subbuild": "mdx-deck build deck.mdx --basepath=\"./slides/arguments\"",
     "pdf": "mdx-deck pdf deck.mdx",
     "image": "mdx-deck screenshot deck.mdx",
     "help": "mdx-deck"
@@ -19,6 +19,7 @@
   "name": "mdx-deck-template",
   "devDependencies": {
     "mdx-deck": "^3.0.10",
+    "react-youtube": "^7.9.0",
     "styled-components": "^4.3.2"
   }
 }
