@@ -28,8 +28,6 @@ Choose a theme to import.  All components are imported by default; remove import
 
 * Updating to mdx-deck 3.0.1 changed the way some components look.  Fix them.  It also switched from using styled-components to emotion, so I should rewrite them in emotion.  Investigate the possibility of having compenents invert colors automatically when the background is inverted rather than having to do it manually.
 
-* Body text butts up right against the screen margin: there's no padding.  (There was padding in mdx-deck 2.5.1.)  I'm currently wrapping long body text in a PadBox component that gives padding, but that's obviously a bad and annoying temporary solution.  Something should probably be changed in the Theme-UI settings, but I'm unsure what.
-
 * I cannot get Providers to work correctly.  Not sure what's wrong.
 
 * mdx-deck 3.0 broke my ability to publish slide decks to a subdirectory and have React Router update the page numbers correctly.  I'm working on it: the "Deploying to a Subdirectory" section below is where I'm at right now, but it's still not working.  (In 2.5.1, I could just use the basepath parameter when building and then restructure my directories.  I didn't need to fool around with gatsby-config.js.  Though it seems like it's the basepath parameter that is broken.)
