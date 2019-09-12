@@ -29,5 +29,9 @@ export default {
       color: 'background',
       bg: 'text',
     },
+    Slide: {
+      padding: '0 2vw',
+    },
+    // adds padding to the left and right of all slides
   },
 }

@@ -22,15 +22,19 @@ Choose a theme to import.  All components are imported by default; remove import
 
 ## To Do
 
-* Something is wrong with hotloading the dev server. It doesn't update when I make changes to deck.mdx, and I have to restart it. It's truly annoying.  Fix this!
+* Updating mdx-deck to 3.0.1 brought along a bunch of problems.  I don't want to be left behind, so I'll try to solve them instead of sticking with 2.5.1.  They're listed below.
 
-* Updating to mdx-deck 3.0 changed the way some components look.  Fix them.  It also switched from using styled-components to emotion, so I should rewrite them in emotion.  Investigate the possibility of having compenents invert colors automatically when background is inverted rather than having to do it manually.
+* Something is wrong with hotloading the dev server. It doesn't update when I make changes to deck.mdx, and I have to restart it. It's truly annoying. Fix this!  (Could it be related to my having installed and started up a dev server for this boilerplate, such that cloning it presumes something incorrect about the location of deck.mdx?) 
+
+* Updating to mdx-deck 3.0.1 changed the way some components look.  Fix them.  It also switched from using styled-components to emotion, so I should rewrite them in emotion.  Investigate the possibility of having compenents invert colors automatically when the background is inverted rather than having to do it manually.
+
+* Body text butts up right against the screen margin: there's no padding.  (There was padding in mdx-deck 2.5.1.)  I'm currently wrapping long body text in a PadBox component that gives padding, but that's obviously a bad and annoying temporary solution.  Something should probably be changed in the Theme-UI settings, but I'm unsure what.
 
 * I cannot get Providers to work correctly.  Not sure what's wrong.
 
-* mdx-deck 3.0 broke my ability to publish slide decks to a subdirectory and have React Router update the page numbers correctly.  I'm working on it: the above "Deploying to a Subdirectory" section is where I'm at right now, but it's still not working.  (In 2.5.1, I could just use the basepath parameter when building and then restructure my directories.  I didn't need to fool around with gatsby-config.js.  Though it seems like it's the basepath parameter that is broken.)
+* mdx-deck 3.0 broke my ability to publish slide decks to a subdirectory and have React Router update the page numbers correctly.  I'm working on it: the "Deploying to a Subdirectory" section below is where I'm at right now, but it's still not working.  (In 2.5.1, I could just use the basepath parameter when building and then restructure my directories.  I didn't need to fool around with gatsby-config.js.  Though it seems like it's the basepath parameter that is broken.)
 
-  	Apparently mdx-deck 3.0 [makes it easy](https://github.com/jxnblk/mdx-deck/blob/master/docs/gatsby.md) to have a single Gatsby site with a collection of decks all contained in a subdirectory.  I would prefer to have the freedom to simply deploy slide decks to a subdirectory without building a new site (and without learning Gatsby!), but it seems this is the way to go.
+  	Apparently mdx-deck 3.0 [makes it easy](https://github.com/jxnblk/mdx-deck/blob/master/docs/gatsby.md) to have a single Gatsby site with a collection of decks all contained in a subdirectory.  I would prefer to have the freedom to simply deploy slide decks to a subdirectory without building a new site (and without learning Gatsby!), but this might be the way to go.  Putting my existing decks in a single Gatsby site breaks my styling, for some reason.
 
 ---
 

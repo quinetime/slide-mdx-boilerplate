@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"setAnimationToReady"
+			],
+			[
+				"Ethics",
+				"ETHICS"
+			],
+			[
+				"details",
+				"detailsEvalDesc"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Animation",
+				"AnimationScript"
+			],
+			[
+				"index",
+				"indexNextClass"
+			],
+			[
+				"gat",
+				"gatstr1"
+			],
+			[
+				"Scene",
+				"SceneComputer"
+			],
+			[
+				"eye",
+				"eyeSizeArray"
+			],
+			[
+				"get",
+				"getEyesize"
+			],
+			[
+				"ge",
+				"getEyesize"
+			],
+			[
+				"Sc",
+				"ScrollToTopOnMount"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"toggle",
+				"toggleIntro"
+			],
+			[
+				"canvas",
+				"canvasAmendments"
+			],
+			[
+				"first",
+				"firstlayout"
+			],
+			[
+				"zucc",
+				"zucchetta"
+			],
+			[
+				"transi",
+				"transition-delay\tproperty"
+			],
+			[
+				"transition-",
+				"transition-duration\tproperty"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"animat",
+				"animation-duration\tproperty"
+			],
+			[
+				"pas",
+				"pastriesPerClick"
+			],
+			[
+				"temp",
+				"tempInventory"
+			],
+			[
+				"rev",
+				"revealMusicButton"
+			],
+			[
+				"animation",
+				"animation-duration\tproperty"
+			],
+			[
+				"for",
+				"forwardButton"
+			],
+			[
+				"remove",
+				"removeFromPlaylist"
+			],
+			[
+				"songs",
+				"songsOffPlaylist"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"Music",
+				"MusicMenuInspirationOwnCell"
+			],
+			[
+				"MusicInsp",
+				"MusicMenuInspirationCostCell"
+			],
+			[
+				"M",
+				"MusicMenuInspirationOwnCell"
+			],
+			[
+				"ca",
+				"canAffordCurr1"
+			],
+			[
+				"songDe",
+				"songDescription"
+			],
+			[
+				"MusicMenu",
+				"MusicMenuLockedSongRow"
+			],
+			[
+				"song",
+				"song"
+			],
+			[
+				"disco",
+				"discoveryBox"
+			],
+			[
+				"discoveryBox",
+				"discoveryBoxDoubleSized"
+			],
+			[
+				"silp",
+				"silphion"
+			],
+			[
+				"indonesi",
+				"indonesiantallginger"
+			],
+			[
+				"phill",
+				"philippinewaxflower"
+			],
+			[
+				"game",
+				"gameWasJustLoaded"
+			],
+			[
+				"start",
+				"startBadPulseAnimation"
+			],
+			[
+				"star",
+				"startPulseAnimation"
+			],
+			[
+				"tutoria",
+				"tutorialStatus"
+			],
+			[
+				"Tuto",
+				"TutorialBox"
+			],
+			[
+				"meat",
+				"meatPerClick"
+			],
+			[
+				"categoie",
+				"categoriesUnlocked"
+			],
+			[
+				"const",
+				"const"
+			],
+			[
+				"cons",
+				"consoleRevealed"
+			],
+			[
+				"con",
+				"consoleRevealed"
+			],
+			[
+				"Title",
+				"title"
+			],
+			[
+				"hor",
+				"horLaborCost"
+			],
+			[
+				"labor",
+				"laborCount"
+			],
+			[
+				"ma",
+				"main-background"
+			],
+			[
+				"Game",
+				"Game"
+			],
+			[
+				"miniature",
+				"miniaturepinscher"
+			],
+			[
+				"hnt",
+				"hnt"
+			],
+			[
+				"total",
+				"totalTechIncrease"
+			],
+			[
+				"bl",
+				"blueberry"
+			],
+			[
+				"rand",
+				"randBodyPart"
+			],
+			[
+				"disease",
+				"diseaseName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/06-Certainty/deck.mdx",
+			"settings":
+			{
+				"buffer_size": 147,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/06-Certainty/gatsby-config.js",
+			"settings":
+			{
+				"buffer_size": 245,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/test/deck.mdx",
+			"settings":
+			{
+				"buffer_size": 59,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: instak",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sear",
+				"Package Control: Discover Packages"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pa",
+				"Pandoc"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"citer",
+				"Citer: Show All"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"cite",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 468.0
+	},
+	"console":
+	{
+		"height": 248.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/06-Certainty"
+	],
+	"file_history":
+	[
+		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/06-Certainty/package.json",
+		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/test/package.json",
+		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/05-Doubt/components/PadBox.js",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/slide-mdx-boilerplate/components/PadBox.js",
+		"/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/03-Fallacies/deck.mdx",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/public/texts/syllabus.md",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/netlify.toml",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/public/redirects",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/Prompts/Prompts.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/Lecture/lecture.js",
+		"/C/Users/Richard/AppData/Local/Temp/noname-3.txt",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/public/site.webmanifest",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/public/_redirects",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/Scenes/gidgets/WinkyEye.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/Scenes/gidgets/WinkyEye.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/Prompts/Prompts.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/prompts/Prompts.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/prompts/Prompts.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/AnimationCanvas/AnimationCanvas.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/ContentBoxStyles.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/node_modules/babel-register/node_modules/core-js/fn/set/from.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/App.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/node_modules/antd/dist/antd.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/node_modules/antd/lib/anchor/Anchor.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/App.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/index.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/Hero/Hero.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/ContentCard/ContentCard.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/Hero/Hero.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/SideMenu/SideMenuAnchors/CategoryAnchor.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/SideMenu/SideMenuAnchors/SyllabusAnchor.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/SideMenu/SideMenuAnchors/IntroAnchor.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/SideMenu/SideMenu.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/SideMenu/SideMenuDrawerButton.js",
+		"/C/Users/Richard/AppData/Local/Temp/noname-2.txt",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/img/knife.svg",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/Scenes/gidgets/WinkyEye.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/Scenes/DivsComputer.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/ScrollToTopOnMount/ScrollToTopOnMount.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/syllabus/OutcomesContent.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/Scenes/SceneFinal.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/beats.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/node_modules/@babel/generator/lib/node/index.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/IntroAnimation/Scenes/SceneComputer.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/node_modules/@xtuc/long/dist/long.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/breakpoints.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/syllabus/PoliciesContent.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/syllabus/EvaluationContent.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/blueberry-clicker-react.sublime-project",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/content/PageContent.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/Current/2018 Unreality/Unreality May 2019 rewrite.md",
+		"/C/Users/Richard/Desktop/vulc.md",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/Current/2018 Unreality/Adds for Final Paper",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/fonts/AnglicanText.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/TitleBox/TitleBox.less",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/Cards/HeroCard.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/Components/TitleBox/TitleBox.js",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/2019-03 North Carolina Philo Society/mdx-deck/node_modules/mdx-deck/dist/themes/yellow.js",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/2019-03 North Carolina Philo Society/mdx-deck/node_modules/mdx-deck/themes.js",
+		"/C/Users/Richard/Dropbox/Documents/Tax Info/2018 Receipts/Statements/Summary.md",
+		"/C/Users/Richard/Dropbox/Wedding/unreality",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/node_modules/antd/es/anchor/Anchor.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/course-pages/phil-and-contemp-issues/src/App.less",
+		"/C/Users/Richard/Dropbox/Wedding/Website text",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/pas-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/MusicMenu/MusicMenuUnlockedSongRow/MusicMenuUnlockedSongRow.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/MusicMenu/MusicMenuLockedSongRow/MusicMenuLockedSongRow.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/MusicMenu/MusicMenu.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/to transfer from office.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/UI/MusicPlayer/MusicPlayer.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/audio/hotdog.mp3",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscList/DiscList.css",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/2019-03 North Carolina Philo Society/mdx-deck/deckPreviousTalk.mdx",
+		"/C/Users/Richard/Dropbox/My Work/My Presentations/2019-02 GSU Delusions and Belief Class/delusions-belief/prev.mdx",
+		"/C/Users/Richard/Dropbox/My Work/Apps and Recs/Referee Reports/2019/Routledge Handbook of Emotions/Report.txt",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/index.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ResearchMenu/ResearchPrices.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ResearchMenu/ResearchMenu.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/Constants.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/UI/Backdrop/Backdrop.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/styles/animations.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/bee-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscList/DiscList.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/build/asset-manifest.json",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/build/manifest.json",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscTitleBar/DiscTitleBar.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/Discovery.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/App.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/Header.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/TimerAndClicker/Timer/TimerBar.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/TimerAndClicker/Timer/Timer.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/TimerAndClicker/TimerAndClicker.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/UI/Backdrop/Backdrop.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/Header.css",
+		"/C/Users/Richard/Desktop/todo.md",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ResearchMenu/ResearchMenuRow/ResearchMenuRow.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Tutorial/TutorialBox/TutorialBoxContents/TutorialBoxContents.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/trp-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/styles/index.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscInput/DiscInput.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/Discovery.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscoveryBuildConstants.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ResearchMenu/ResearchMenuRow/ResearchMenuRow.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ConsoleButton.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/fsh-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/TimerAndClicker/Clicker/Clicker.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/ber-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Tutorial/TutorialBox/TutorialBoxContents/TutorialBoxContents.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Tutorial/TutorialBox/TutorialBox.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Tutorial/TutorialBox/TutorialBox.css",
+		"/C/Users/Richard/Dropbox/My Work/My Scratchings/2013 Fall/Modes and Functionalism.tex",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/hor-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/styles/App.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/DiscText/DiscText.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Tutorial/TutorialBox/TutorialBo",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/Console.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Tutorial/Tutorial.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/Inventory/Inventory.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/dom-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discoveries.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ResearchMenu/ResearchMenu.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discoveries.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Discoveries/Discovery/verify-scripts/hnt-verify.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/Console.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Console/ConsoleButton/ConsoleButton.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/TutorialBox/TutorialBox.js",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/TutorialBox/TutorialBox.css",
+		"/C/Users/Richard/Dropbox/My Work/My Projects/web-projects/blueberry-clicker-react/src/components/Header/TimerAndClicker/Clicker/Clicker.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/06-Certainty/deck.mdx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MDX Syntax Highlighting/mdx.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/06-Certainty/gatsby-config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/JS Custom/Syntaxes/React.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Richard/Dropbox/My Work/My Courses/2019 Philosophy and Contemporary Issues/slides/test/deck.mdx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MDX Syntax Highlighting/mdx.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 126.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 131.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

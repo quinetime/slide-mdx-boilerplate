@@ -36,5 +36,9 @@ export default {
       backgroundAttachment: 'fixed',
       backgroundImage: `url(${triangles})`,
     },
+    Slide: {
+      padding: '0 2vw',
+    },
+    // adds padding to the left and right of all slides
   },
 }
