@@ -24,7 +24,7 @@ Choose a theme to import.  All components are imported by default; remove import
 
 * Updating mdx-deck to 3.0.1 brought along a bunch of problems.  I don't want to be left behind, so I'll try to solve them instead of sticking with 2.5.1.  They're listed below.
 
-* Something is wrong with hotloading the dev server. It doesn't update when I make changes to deck.mdx, and I have to restart it. It's truly annoying. Fix this!  (Could it be related to my having installed and started up a dev server for this boilerplate, such that cloning it presumes something incorrect about the location of deck.mdx?) 
+* Something is wrong with hotloading the dev server. It doesn't update when I make changes to deck.mdx, and I have to restart it. It's truly annoying. Fix this!  (Could it be related to my having installed and started up a dev server for this boilerplate, such that cloning it presumes something incorrect about the location of deck.mdx?)  Update: [there's an open issue for this](https://github.com/jxnblk/mdx-deck/issues/474)!  Changing the first slide will hotload in the meantime.  
 
 * Updating to mdx-deck 3.0.1 changed the way some components look.  Fix them.  It also switched from using styled-components to emotion, so I should rewrite them in emotion.  Investigate the possibility of having compenents invert colors automatically when the background is inverted rather than having to do it manually.
 
