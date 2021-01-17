@@ -69,3 +69,27 @@ For example, to deploy to `./slides/arguments`:
 mdx-deck has gone on to v4 now (and I'm not sure it's still being updated/maintained); these directions are now stale.  Here's how I now start a new mdx site.  (If you want to make just a single deck, follow the directions on the mdx-deck repo)
 
 `npm i gatsby`
+
+`npm i -D mdx-deck`
+
+`npm i gatsby-theme-mdx-deck`
+
+in `gatsby-config.js` file, add plugin configuration such as the following:
+
+````
+module.exports = {
+  plugins: [
+    {
+      resolve: 'gatsby-theme-mdx-deck',
+      options: {
+        // enable or disable gatsby-plugin-mdx
+        mdx: true,
+        // source directory
+        contentPath: 'src/decks',
+        // base path for routes generate by this theme
+        basePath: 'slides'
+      }
+    }
+  ]
+}
+````
