@@ -61,3 +61,11 @@ For example, to deploy to `./slides/arguments`:
 * Then, on your actual site, use Netlify's proxying feature to proxy to your slides. (See fool's comments at the end of [this thread](https://github.com/netlify/cli/issues/16).)
 
 * Be aware that [this open issue](https://github.com/jxnblk/mdx-deck/issues/425) suggests that doing this might break the theming.
+
+---
+
+## Update
+
+mdx-deck has gone on to v4 now (and I'm not sure it's still being updated/maintained); these directions are now stale.  Here's how I now start a new mdx site.  (If you want to make just a single deck, follow the directions on the mdx-deck repo)
+
+`npm i gatsby`
